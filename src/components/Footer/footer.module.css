@@ -1,0 +1,88 @@
+/*#### footer_wrap ####*/
+#footer_wrap {
+    width: 100vw;
+}
+
+.sub_footer {
+    border-top: 1px solid #e0e0e0;
+    border-bottom: 1px solid #e0e0e0;
+    padding: 54px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.sub_footer dl {
+    text-align: center;
+    margin: 0 110px;
+}
+
+.sub_footer dl dt {
+    margin-bottom: 13px;
+}
+
+.sub_footer dl dd {
+    margin-bottom: 6px;
+}
+
+.sub_footer dl dd a {
+    font-size: 12px;
+}
+
+.sub_footer .kakao a {
+    color: #b39a7c;
+}
+
+.sub_footer .kakao .hover {
+    display: none;
+}
+    
+
+/*#### footer ####*/
+#footer {
+    padding: 30px 0 90px;
+    text-align: center;
+}
+
+#footer ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#footer ul li {
+    margin-right: 8px;
+    position: relative;
+}
+
+#footer .info li::after {
+    content: "";
+    display: block;
+    width: 1px;
+    height: 10px;
+    background-color: #787777;
+    position: absolute;
+    right: -4px;
+    top: 7px;
+}
+
+#footer .info li:last-child::after {
+    content: none;
+}
+
+#footer ul li, #footer ul li a {
+    font-size: 11px;
+    line-height: 25px;
+    color: #535353;
+}
+
+#footer p, #footer p a {
+    font-size: 10px;
+}
+
+#footer ul li a, #footer p a {
+    text-decoration: underline;
+}
+
+#footer p {
+    margin: 20px 0;
+}

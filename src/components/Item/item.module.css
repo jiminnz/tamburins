@@ -1,0 +1,75 @@
+.item {
+    max-width: 335px;
+    cursor: pointer;
+}
+
+.item .img_wrap {
+    margin-bottom: 20px;
+}
+
+.item .img_wrap img {
+    width: 100%;
+}
+
+.item .img_wrap .simple_img {
+    display: none;
+}
+
+.item .text_wrap {
+    font-size: 12px;
+    padding: 0 20px;
+}
+
+.item .text_wrap h5 {
+    font-size: 15px;
+    margin: 6px 0;
+}
+
+.item .text_wrap .price_wrap {
+    font-size: 14px;
+}
+
+.item .text_wrap .price_wrap .gram {
+    font-size: 11px;
+}
+
+.item .text_wrap .price_wrap div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.item .text_wrap .size {
+    color: #a8a8a8;
+    font-size: 14px;
+}
+
+
+/*### item 간략히보기 */
+.simple_item .img_wrap img:first-child, .simple_item .text_wrap .desc, .simple_item .text_wrap .gram, .simple_item .text_wrap .size {
+    display: none;
+}
+
+.simple_item {
+    margin-right: 3px;
+}
+
+.simple_item .img_wrap {
+    width: 223px;
+    margin-bottom: 20px;
+}
+
+.simple_item .img_wrap .simple_img {
+    display: block;
+    width: 100%;
+}
+
+.simple_item .text_wrap {
+    padding: 0 20px;
+}
+
+.simple_item .text_wrap h5 {
+    margin: 6px 0;
+    font-size: 15px;
+}

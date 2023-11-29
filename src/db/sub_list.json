@@ -1,0 +1,852 @@
+{
+    "category_title" : [
+        {"id" : 1, "title" : "view_all", "title_kor" : "전체보기", "img" : "https://web-resource.tamburins.com/category/category_viewall_jennie.png?img1=12"},
+        {"id" : 2, "title" : "bestseller", "title_kor" : "베스트셀러", "img" : "https://web-resource.tamburins.com/category/category_bestSeller_jennie.png?img1=12"},
+        {"id" : 3, "title" : "perfume", "title_kor" : "퍼퓸", "img" : "https://web-resource.tamburins.com/category/category_newPerfume.png?img1=12"},
+        {"id" : 4, "title" : "perfumebalm", "title_kor" : "퍼퓸 밤", "img" : "https://www.tamburins.com/img/renew_dummy/category/ctgry_balm.png?img1=12"},
+        {"id" : 5, "title" : "showerybody", "title_kor" : "샤워리바디", "img" : "https://www.tamburins.com/data/item/category/category_shwry.png?img1=12"},
+        {"id" : 6, "title" : "candle", "title_kor" : "올팩티브 캔들", "img" : "https://web-resource.tamburins.com/category/category_perfumeCandle.png?img1=12"},
+        {"id" : 7, "title" : "perfume_hand", "title_kor" : "퍼퓸 핸드", "img" : "https://web-resource.tamburins.com/category/category_newShellX.png?img1=12"},
+        {"id" : 8, "title" : "tube_hand", "title_kor" : "튜브 핸드", "img" : "https://web-resource.tamburins.com/category/category_chain-hand_v2.png?img1=12"},
+        {"id" : 9, "title" : "perfume_soap", "title_kor" : "퍼퓸 비누", "img" : "https://tamburins-resource.s3.ap-northeast-2.amazonaws.com/category/ctgry_harvestsoap3.png?img1=12"},
+        {"id" : 10, "title" : "egglipbalm", "title_kor" : "에그 립밤", "img" : "https://web-resource.tamburins.com/category/category_lipBalm.png?img1=12"},
+        {"id" : 11, "title" : "sanitizer", "title_kor" : "손 소독제", "img" : "https://www.tamburins.com/data/item/category/category_sanitizer.png?img1=12"},
+        {"id" : 12, "title" : "gift", "title_kor" : "선물 추천", "img" : "https://www.tamburins.com/data/item/category/category_giftset.png?img1=12"}
+    ],
+    
+    "category_list" : [
+        {
+            "id" : 2,
+            "title" : "bestseller",
+            "ca_title" : "",
+            "ca_desc" : "",
+            "ca_img" : "",
+            "ca_name" : "베스트셀러",
+            "ca_num" : 19,
+            "arr" : [
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1700011669_PLP_perfume_50ml_chamo.jpg?img1=121",
+                    "name" : "퍼퓸 카모",
+                    "desc" : "진득한 카모마일 | 부드러운 나무결 | 머스크",
+                    "price" : "139,000",
+                    "gram" : "50mL",
+                    "size" : 3
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1666772156/PLP_balm_6g_chamo.jpg?img1=121",
+                    "name" : "퍼퓸 밤 카모",
+                    "desc" : "진득한 카모마일 | 부드러운 나무결 | 머스크",
+                    "price" : "46,500",
+                    "gram" : "6.5g",
+                    "size" : 1
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1700011753_PLP_perfume_11ml_chamo.jpg?img1=121",
+                    "name" : "퍼퓸 카모",
+                    "desc" : "진득한 카모마일 | 부드러운 나무결 | 머스크",
+                    "price" : "38,500",
+                    "gram" : "11mL",
+                    "size" : 3
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1689835895_PLP_toilet_fragrance_v2.jpg?img1=121",
+                    "name" : "토일렛 프래그런스 세이지마리",
+                    "desc" : "클라리세이지ㅣ로즈마리ㅣ만다린",
+                    "price" : "36,500",
+                    "gram" : "38mL",
+                    "size" : 1
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1666763525/PLP_shellX_30ml_chamo.jpg?img1=121",
+                    "name" : "퍼퓸 쉘 엑스 카모",
+                    "desc" : "진득한 카모마일 | 부드러운 나무결 | 머스크",
+                    "price" : "32,000",
+                    "gram" : "30mL",
+                    "size" : 2
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1666773989/PLP_balm_6g_lale.jpg?img1=121",
+                    "name" : "퍼퓸 밤 라레",
+                    "desc" : "이슬을 머금은 풋사과 | 화이트 튤립 | 샌달우드",
+                    "price" : "46,500",
+                    "gram" : "6.5g",
+                    "size" : 1
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1682492782_PLP_shell_fey9vein.jpg?img1=121",
+                    "name" : "퍼퓸핸드 미니 듀오 세트 베스트 (FEY9+VEIN)",
+                    "desc" : "퍼퓸핸드 베스트 향",
+                    "price" : "33,500",
+                    "gram" : "15mL*2",
+                    "size" : 1
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1672020666_PLP_hand&bodyDuo_250ml_000.jpg?img1=121",
+                    "name" : "퍼퓸드 핸드앤바디 워시&에멀전 듀오세트",
+                    "desc" : "샌달우드  |  패츌리  |  흙 내음",
+                    "price" : "74,000",
+                    "gram" : "250mL",
+                    "size" : 1
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1686560792_PLP_handwashCHAMO.jpg?img1=121",
+                    "name" : "퍼퓸드 핸드워시 카모",
+                    "desc" : "진득한 카모마일 | 부드러운 나무결 | 머스크",
+                    "price" : "34,000",
+                    "gram" : "250mL",
+                    "size" : 1
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/showry%20body/PLP/PLP_shwry_wash_biga_470mL.jpg?img1=121",
+                    "name" : "바디워시 BIGALICO",
+                    "desc" : "씁쓸한 오렌지 | 시더우드 | 달콤한 리코라이스",
+                    "price" : "52,000",
+                    "gram" : "470mL",
+                    "size" : 2
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1700012214_PLP_perfume_11ml_whiteDar.jpg?img1=121",
+                    "name" : "퍼퓸 화이트다즐링",
+                    "desc" : "화이트 샴페인 | 다즐링 티 | 크리미한 머스크",
+                    "price" : "38,500",
+                    "gram" : "11mL",
+                    "size" : 3
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/tube%20hand/PLP/PLP_tubehand_vein_65ml.jpg?img1=121",
+                    "name" : "VEIN",
+                    "desc" : "월계수 잎 | 은방울꽃 | 정돈된 가죽",
+                    "price" : "25,000",
+                    "gram" : "65mL",
+                    "size" : 1
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1700012154_PLP_perfume_50ml_whiteDar.jpg?img1=121",
+                    "name" : "퍼퓸 화이트다즐링",
+                    "desc" : "화이트 샴페인 | 다즐링 티 | 크리미한 머스크",
+                    "price" : "129,000",
+                    "gram" : "50mL",
+                    "size" : 3
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/tube%20hand/PLP/PLP_tubehand_000_65ml.jpg?img1=121",
+                    "name" : "000",
+                    "desc" : "샌달우드  |  패츌리  |  흙 내음",
+                    "price" : "25,000",
+                    "gram" : "65mL",
+                    "size" : 1
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1690873488_PLP_handWash_250ml_000.jpg?img1=121",
+                    "name" : "퍼퓸드 핸드워시 000",
+                    "desc" : "샌달우드  |  패츌리  |  흙 내음",
+                    "price" : "34,000",
+                    "gram" : "250mL",
+                    "size" : 1
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/chain%20hand/PLP/PLP_chain_000_30mL.jpg?img1=121",
+                    "name" : "000",
+                    "desc" : "샌달우드  |  패츌리  |  흙 내음",
+                    "price" : "23,000",
+                    "gram" : "30mL",
+                    "size" : 2
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/showry%20body/PLP/PLP_shwry_lotion_biga_470mL.jpg?img1=121",
+                    "name" : "바디로션 BIGALICO",
+                    "desc" : "씁쓸한 오렌지 | 시더우드 | 달콤한 리코라이스",
+                    "price" : "59,500",
+                    "gram" : "470mL",
+                    "size" : 2
+                }
+            ]
+        },
+        {
+            "id" : 3,
+            "title" : "perfume",
+            "ca_title" : "퍼퓸 컬렉션",
+            "ca_desc" : "[SOLACE: 한줌의 위안] 위안에서 오는 다양한 감정을 표현한 이번 향수 컬렉션은 시간이 흐르면서 일어나는 다채로운 향의 변화를 온전히 느낄 수 있는 향수입니다. 세상에 흩어진 모든 이야기에서 영감을 받은 감각적인 향이 단조로운 일상에 자유롭고 새로운 리듬을 부여합니다. 탬버린즈가 찾아낸 규정되지 않은 아름다움을 향수를 통해 경험해보세요.",
+            "ca_img" : "https://web-resource.tamburins.com/banner/pc_PLP_heroVid.mp4",
+            "ca_name" : "퍼퓸",
+            "ca_num" : 21,
+            "arr" : [
+                {
+                    "img" : "https://www.tamburins.com/data/item/1662462471/PLP_perfume_chamo_50ml.jpg?img1=121",
+                    "name" : "퍼퓸 카모",
+                    "desc" : "진득한 카모마일 | 부드러운 나무결 | 머스크",
+                    "price" : "139,000",
+                    "gram" : "50mL",
+                    "size" : 3
+                },
+                {
+                    "img" : "https://www.tamburins.com/data/item/1662462491/PLP_perfume_chamo_10ml.jpg?img1=121",
+                    "name" : "퍼퓸 카모",
+                    "desc" : "진득한 카모마일 | 부드러운 나무결 | 머스크",
+                    "price" : "36,500",
+                    "gram" : "10mL",
+                    "size" : 3
+                },
+                {
+                    "img" : "https://www.tamburins.com/data/item/1662463458/PLP_perfume_berga_50ml.jpg?img1=121",
+                    "name" : "퍼퓸 버가샌달",
+                    "desc" : "지중해의 베르가못 | 쌉싸래한 청귤 | 샌달우드",
+                    "price" : "139,000",
+                    "gram" : "50mL",
+                    "size" : 3
+                },
+                {
+                    "img" : "https://www.tamburins.com/data/item/1662463460/PLP_perfume_berga_10ml.jpg?img1=121",
+                    "name" : "퍼퓸 버가샌달",
+                    "desc" : "지중해의 베르가못 | 쌉싸래한 청귤 | 샌달우드",
+                    "price" : "36,500",
+                    "gram" : "10mL",
+                    "size" : 3
+                },
+                {
+                    "img" : "https://www.tamburins.com/data/item/1662464557/PLP_perfume_thaw_50ml.jpg?img1=121",
+                    "name" : "퍼퓸 쏘,선셋",
+                    "desc" : "지중해의 베르가못 | 쌉싸래한 청귤 | 샌달우드",
+                    "price" : "139,000",
+                    "gram" : "50mL",
+                    "size" : 3
+                },
+                {
+                    "img" : "https://www.tamburins.com/data/item/1662464560/PLP_perfume_thaw_10ml.jpg?img1=121",
+                    "name" : "퍼퓸 쏘,선셋",
+                    "desc" : "지중해의 베르가못 | 쌉싸래한 청귤 | 샌달우드",
+                    "price" : "36,500",
+                    "gram" : "10mL",
+                    "size" : 3
+                },
+                {
+                    "img" : "https://www.tamburins.com/data/item/1662464016/PLP_perfume_bilingual_50ml.jpg?img1=121",
+                    "name" : "퍼퓸 바이링거",
+                    "desc" : "마시멜로 | 오렌지 블라섬 | 타바코",
+                    "price" : "129,000",
+                    "gram" : "50mL",
+                    "size" : 3
+                },
+                {
+                    "img" : "https://www.tamburins.com/data/item/1662464021/PLP_perfume_bilingual_10ml.jpg?img1=121",
+                    "name" : "퍼퓸 바이링거",
+                    "desc" : "마시멜로 | 오렌지 블라섬 | 타바코",
+                    "price" : "36,500",
+                    "gram" : "10mL",
+                    "size" : 3
+                }
+            ]
+        },
+        {
+            "id" : 4,
+            "title" : "perfumebalm",
+            "ca_title" : "퍼퓸 밤",
+            "ca_desc" : "감각적으로 향을 즐길 수 있는 새로운 형태의 퍼퓸밤. 핸디한 사이즈의 퍼퓸 밤과 함께 어디서든 자유롭게 향을 경험하고 스스로를 표현해보세요. 부드러운 텍스처로 맥박이 뛰는 손목, 귀밑 등에 부드럽게 발라주면 체온에 의해 은은하게 퍼지는 향을 느끼실 수 있습니다. 아이코닉한 퍼퓸 밤 디자인은 탬버린즈 퍼퓸의 일부가 미러링된 형태로 확장된 퍼퓸의 페르소나를 표현합니다.",
+            "ca_img" : "https://www.tamburins.com/img/renew_dummy/category/pc_plp_hero_banner_balm.jpg",
+            "ca_name" : "퍼퓸 밤",
+            "ca_num" : 4,
+            "arr" : [
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1666772156/PLP_balm_6g_chamo.jpg?img1=121",
+                    "name" : "퍼퓸 밤 카모",
+                    "desc" : "진득한 카모마일 | 부드러운 나무결 | 머스크",
+                    "price" : "46,500",
+                    "gram" : "6.5g",
+                    "size" : 1
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1666774132/PLP_balm_6g_bergaSandal.jpg?img1=121",
+                    "name" : "퍼퓸 밤 버가샌달",
+                    "desc" : "지중해의 베르가못 | 쌉싸래한 청귤 | 샌달우드",
+                    "price" : "46,500",
+                    "gram" : "6.5g",
+                    "size" : 1
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1666773989/PLP_balm_6g_lale.jpg?img1=121",
+                    "name" : "퍼퓸 밤 라레",
+                    "desc" : "이슬을 머금은 풋사과 | 화이트 튤립 | 샌달우드",
+                    "price" : "46,500",
+                    "gram" : "6.5g",
+                    "size" : 1
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1666773625/PLP_balm_6g_suedePear.jpg?img1=121",
+                    "name" : "퍼퓸 밤 스웨이드페어",
+                    "desc" : "시원한 배 | 스웨이드 | 쌉쌀한 갈바넘",
+                    "price" : "46,500",
+                    "gram" : "6.5g",
+                    "size" : 1
+                }
+            ]
+        },
+        {
+            "id" : 5,
+            "title" : "showerybody",
+            "ca_title" : "샤워리 바디워시&로션",
+            "ca_desc" : "자연에서 내리는 비에서 영감을 받은 샤워리바디는 내 샤워실에 내리는 향기로운 소나기입니다. 폭풍이 지나간 자리에 새싹이 움트이는 것처럼 시원한 비가 지난 뒤 남은 고요한 시간에 우리는 사고가 무한히 확장되는 듯한 일종의 해방감과 함께 맑아진 머릿속이 창의적인 영감으로 가득 메워지는 경이로운 경험을 하기도 합니다. 빗방울이 호수 위에 부딪히며 생긴 진동으로 퍼져나가는 파형을 닮은 용기에는 자연에서 내리는 비가 선사하는 다양한 영감을 담고 있습니다.",
+            "ca_img" : "https://www.tamburins.com/img/renew_dummy/category/PLP_PC_hero_shwry_edit.jpg",
+            "ca_name" : "샤워리바디",
+            "ca_num" : 17,
+            "arr" : [
+                {
+                    "img" : "https://web-resource.tamburins.com/item/showry%20body/PLP/PLP_shwry_wash_biga_470mL.jpg?img1=121",
+                    "name" : "바디워시 BIGALICO",
+                    "desc" : "씁쓸한 오렌지 | 시더우드 | 달콤한 리코라이스",
+                    "price" : "52,000",
+                    "gram" : "470mL",
+                    "size" : 2
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/showry%20body/PLP/PLP_shwry_wash_biga_240mL.jpg?img1=121",
+                    "name" : "바디워시 BIGALICO",
+                    "desc" : "씁쓸한 오렌지 | 시더우드 | 달콤한 리코라이스",
+                    "price" : "33,000",
+                    "gram" : "240mL",
+                    "size" : 2
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/showry%20body/PLP/PLP_shwry_wash_fog_470mL.jpg?img1=121",
+                    "name" : "바디워시 FOG",
+                    "desc" : "물안개 낀 숲 | 젖은 나무 | 캐시미어 우드",
+                    "price" : "52,000",
+                    "gram" : "470mL",
+                    "size" : 2
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/showry%20body/PLP/PLP_shwry_wash_fog_240mL.jpg?img1=121",
+                    "name" : "바디워시 FOG",
+                    "desc" : "물안개 낀 숲 | 젖은 나무 | 캐시미어 우드",
+                    "price" : "33,000",
+                    "gram" : "240mL",
+                    "size" : 2
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/showry%20body/PLP/PLP_shwry_wash_nimbus_470mL.jpg?img1=121",
+                    "name" : "바디워시 NIMBUS",
+                    "desc" : "도넛피치 | 어린 코코넛의 풋내음 | 포근한 머스크",
+                    "price" : "52,000",
+                    "gram" : "470mL",
+                    "size" : 2
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/showry%20body/PLP/PLP_shwry_wash_nimbus_240mL.jpg?img1=121",
+                    "name" : "바디워시 NIMBUS",
+                    "desc" : "도넛피치 | 어린 코코넛의 풋내음 | 포근한 머스크",
+                    "price" : "33,000",
+                    "gram" : "240mL",
+                    "size" : 2
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/showry%20body/PLP/PLP_shwry_wash_storm_470mL.jpg?img1=121",
+                    "name" : "바디워시 STORM",
+                    "desc" : "풀내음 | 짙은 오렌지 | 베티버 뿌리의 쌉쌀함",
+                    "price" : "52,000",
+                    "gram" : "470mL",
+                    "size" : 2
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/showry%20body/PLP/PLP_shwry_wash_storm_240mL.jpg?img1=121",
+                    "name" : "바디워시 STORM",
+                    "desc" : "풀내음 | 짙은 오렌지 | 베티버 뿌리의 쌉쌀함",
+                    "price" : "33,000",
+                    "gram" : "240mL",
+                    "size" : 2
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/showry%20body/PLP/PLP_shwry_lotion_biga_470mL.jpg?img1=121",
+                    "name" : "바디로션 BIGALICO",
+                    "desc" : "씁쓸한 오렌지 | 시더우드 | 달콤한 리코라이스",
+                    "price" : "59,500",
+                    "gram" : "470mL",
+                    "size" : 2
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/showry%20body/PLP/PLP_shwry_lotion_biga_235mL.jpg?img1=121",
+                    "name" : "바디로션 BIGALICO",
+                    "desc" : "씁쓸한 오렌지 | 시더우드 | 달콤한 리코라이스",
+                    "price" : "38,500",
+                    "gram" : "235mL",
+                    "size" : 2
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/showry%20body/PLP/PLP_shwry_lotion_fog_470mL.jpg?img1=121",
+                    "name" : "바디로션 FOG",
+                    "desc" : "물안개 낀 숲 | 젖은 나무 | 캐시미어 우드",
+                    "price" : "59,500",
+                    "gram" : "470mL",
+                    "size" : 2
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/showry%20body/PLP/PLP_shwry_lotion_fog_235mL.jpg?img1=121",
+                    "name" : "바디로션 FOG",
+                    "desc" : "물안개 낀 숲 | 젖은 나무 | 캐시미어 우드",
+                    "price" : "38,500",
+                    "gram" : "235mL",
+                    "size" : 2
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/showry%20body/PLP/PLP_shwry_lotion_nimbus_470mL.jpg?img1=121",
+                    "name" : "바디로션 NIMBUS",
+                    "desc" : "도넛피치 | 어린 코코넛의 풋내음 | 포근한 머스크",
+                    "price" : "59,500",
+                    "gram" : "470mL",
+                    "size" : 2
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/showry%20body/PLP/PLP_shwry_lotion_nimbus_235mL.jpg?img1=121",
+                    "name" : "바디로션 NIMBUS",
+                    "desc" : "도넛피치 | 어린 코코넛의 풋내음 | 포근한 머스크",
+                    "price" : "38,500",
+                    "gram" : "235mL",
+                    "size" : 2
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1687917633_PLP_shwry_duo_nimbus_v2.jpg?img1=121",
+                    "name" : "바디듀오 NIMBUS",
+                    "desc" : "샤워리바디워시&로션",
+                    "price" : "68,000",
+                    "gram" : "240mL+235mL",
+                    "size" : 1
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1687917731_PLP_shwry_duo_biga_v2.jpg?img1=121",
+                    "name" : "바디듀오 BIGALICO",
+                    "desc" : "샤워리바디워시&로션",
+                    "price" : "68,000",
+                    "gram" : "240mL+235mL",
+                    "size" : 1
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1687917686_PLP_shwry_duo_fog_v2.jpg?img1=121",
+                    "name" : "바디듀오 FOG",
+                    "desc" : "샤워리바디워시&로션",
+                    "price" : "68,000",
+                    "gram" : "240mL+235mL",
+                    "size" : 1
+                }
+            ]
+        },
+        {
+            "id" : 6,
+            "title" : "candle",
+            "ca_title" : "",
+            "ca_desc" : "",
+            "ca_img" : "",
+            "ca_name" : "퍼퓸 캔들",
+            "ca_num" : 5,
+            "arr" : [
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1699861954_PLP_200_pum.jpg?img1=121",
+                    "name" : "퍼퓸 캔들 펌키니",
+                    "desc" : "달콤한 호박 | 차조기잎 | 코코넛밀크",
+                    "price" : "83,000",
+                    "gram" : "210g",
+                    "size" : 1
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1699861857_PLP_200_holy.jpg?img1=121",
+                    "name" : "퍼퓸 캔들 홀리메탈",
+                    "desc" : "측백나무잎 | 차가운 금속 | 화이트 머스크",
+                    "price" : "83,000",
+                    "gram" : "210g",
+                    "size" : 1
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1699861453_PLP_200_bather.jpg?img1=121",
+                    "name" : "퍼퓸 캔들 베이더인더레이크",
+                    "desc" : "쑥 | 안개 낀 호수 | 촉촉한 이끼",
+                    "price" : "83,000",
+                    "gram" : "210g",
+                    "size" : 1
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1699861755_PLP_200_late.jpg?img1=121",
+                    "name" : "퍼퓸 캔들 레이트어텀",
+                    "desc" : "비터오렌지 | 사탕수수 풀내음 | 머스크",
+                    "price" : "83,000",
+                    "gram" : "210g",
+                    "size" : 1
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1699861324_PLP_60.jpg?img1=121",
+                    "name" : "퍼퓸 캔들 미니 세트",
+                    "desc" : "캔들 네 가지 향",
+                    "price" : "148,000",
+                    "gram" : "60g*4ea",
+                    "size" : 1
+                }
+            ]
+        },
+        {
+            "id" : 7,
+            "title" : "perfume_hand",
+            "ca_title" : "",
+            "ca_desc" : "",
+            "ca_img" : "",
+            "ca_name" : "퍼퓸 핸드",
+            "ca_num" : 25,
+            "arr" : [
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1699863209_PLP_pum.jpg?img1=121",
+                    "name" : "퍼퓸 쉘 엑스 펌키니",
+                    "desc" : "달콤한 호박 | 차조기잎 | 코코넛밀크",
+                    "price" : "32,000",
+                    "gram" : "30mL",
+                    "size" : 1
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1699863056_PLP_holy.jpg?img1=121",
+                    "name" : "퍼퓸 쉘 엑스 홀리메탈",
+                    "desc" : "측백나무잎 | 차가운 금속 | 화이트 머스크",
+                    "price" : "32,000",
+                    "gram" : "30mL",
+                    "size" : 1
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1699862858_PLP_bold.jpg?img1=121",
+                    "name" : "퍼퓸 쉘 엑스 볼드시트러스",
+                    "desc" : "다채로운 시트러스 | 캐럿시드 | 고소한 결명자",
+                    "price" : "32,000",
+                    "gram" : "30mL",
+                    "size" : 1
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1666763525/PLP_shellX_30ml_chamo.jpg?img1=121",
+                    "name" : "퍼퓸 쉘 엑스 카모",
+                    "desc" : "진득한 카모마일 | 부드러운 나무결 | 머스크",
+                    "price" : "32,000",
+                    "gram" : "30mL",
+                    "size" : 1
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1666765396/PLP_shellX_30ml_berga.jpg?img1=121",
+                    "name" : "퍼퓸 쉘 엑스 버가샌달",
+                    "desc" : "지중해의 베르가못 | 쌉싸래한 청귤 | 샌달우드",
+                    "price" : "32,000",
+                    "gram" : "30mL",
+                    "size" : 1
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1666769254/PLP_shellX_30ml_lale.jpg?img1=121",
+                    "name" : "퍼퓸 쉘 엑스 라레",
+                    "desc" : "이슬을 머금은 풋사과 | 화이트 튤립 | 샌달우드",
+                    "price" : "32,000",
+                    "gram" : "30mL",
+                    "size" : 1
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1699864435_PLP_shell_vein_40ml.jpg?img1=121",
+                    "name" : "VEIN",
+                    "desc" : "월계수 잎  |  은방울꽃  |  정돈된 가죽",
+                    "price" : "32,000",
+                    "gram" : "30mL",
+                    "size" : 1
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1699864499_PLP_shell_fey9_40ml.jpg?img1=121",
+                    "name" : "FEY9",
+                    "desc" : "무화과나무  |  엠브레트 씨앗  |  달콤 씁쓸한",
+                    "price" : "32,000",
+                    "gram" : "30mL",
+                    "size" : 1
+                }
+            ]
+        },
+        {
+            "id" : 8,
+            "title" : "tube_hand",
+            "ca_title" : "튜브 핸드",
+            "ca_desc" : "소중한 순간을 특별하게 만들어줄 탬버린즈만의 기프트. 레드 익스클루시브 패키지는 튜브 핸드크림 & 체인 핸드크림 구매 시 함께 제공됩니다.",
+            "ca_img" : "https://www.tamburins.com/img/renew_dummy/category/GWP(PLP)_red_chain_v3_new.jpg",
+            "ca_name" : "튜브 핸드",
+            "ca_num" : 16,
+            "arr" : [
+                {
+                    "img" : "https://www.tamburins.com/data/item/1662462471/PLP_perfume_chamo_50ml.jpg?img1=121",
+                    "name" : "퍼퓸 카모",
+                    "desc" : "진득한 카모마일 | 부드러운 나무결 | 머스크",
+                    "price" : "139,000",
+                    "gram" : "50mL",
+                    "size" : 3
+                },
+                {
+                    "img" : "https://www.tamburins.com/data/item/1662462491/PLP_perfume_chamo_10ml.jpg?img1=121",
+                    "name" : "퍼퓸 카모",
+                    "desc" : "진득한 카모마일 | 부드러운 나무결 | 머스크",
+                    "price" : "36,500",
+                    "gram" : "10mL",
+                    "size" : 3
+                },
+                {
+                    "img" : "https://www.tamburins.com/data/item/1662463458/PLP_perfume_berga_50ml.jpg?img1=121",
+                    "name" : "퍼퓸 버가샌달",
+                    "desc" : "지중해의 베르가못 | 쌉싸래한 청귤 | 샌달우드",
+                    "price" : "139,000",
+                    "gram" : "50mL",
+                    "size" : 3
+                },
+                {
+                    "img" : "https://www.tamburins.com/data/item/1662463460/PLP_perfume_berga_10ml.jpg?img1=121",
+                    "name" : "퍼퓸 버가샌달",
+                    "desc" : "지중해의 베르가못 | 쌉싸래한 청귤 | 샌달우드",
+                    "price" : "36,500",
+                    "gram" : "10mL",
+                    "size" : 3
+                },
+                {
+                    "img" : "https://www.tamburins.com/data/item/1662464557/PLP_perfume_thaw_50ml.jpg?img1=121",
+                    "name" : "퍼퓸 쏘,선셋",
+                    "desc" : "지중해의 베르가못 | 쌉싸래한 청귤 | 샌달우드",
+                    "price" : "139,000",
+                    "gram" : "50mL",
+                    "size" : 3
+                },
+                {
+                    "img" : "https://www.tamburins.com/data/item/1662464560/PLP_perfume_thaw_10ml.jpg?img1=121",
+                    "name" : "퍼퓸 쏘,선셋",
+                    "desc" : "지중해의 베르가못 | 쌉싸래한 청귤 | 샌달우드",
+                    "price" : "36,500",
+                    "gram" : "10mL",
+                    "size" : 3
+                },
+                {
+                    "img" : "https://www.tamburins.com/data/item/1662464016/PLP_perfume_bilingual_50ml.jpg?img1=121",
+                    "name" : "퍼퓸 바이링거",
+                    "desc" : "마시멜로 | 오렌지 블라섬 | 타바코",
+                    "price" : "129,000",
+                    "gram" : "50mL",
+                    "size" : 3
+                },
+                {
+                    "img" : "https://www.tamburins.com/data/item/1662464021/PLP_perfume_bilingual_10ml.jpg?img1=121",
+                    "name" : "퍼퓸 바이링거",
+                    "desc" : "마시멜로 | 오렌지 블라섬 | 타바코",
+                    "price" : "36,500",
+                    "gram" : "10mL",
+                    "size" : 3
+                }
+            ]
+        },
+        {
+            "id" : 9,
+            "title" : "perfume_soap",
+            "ca_title" : "퍼퓸 비누",
+            "ca_desc" : "논 밭을 일구어 수확한 퍼퓸 비누 4종을 소개합니다. 작물을 수확할 때의 기쁨을 형상화한 퍼퓸 비누. 농부의 땀으로 결실을 맺은 4가지 열매의 형상을 띈 약산성 제형의 퍼퓸 비누는 탬버린즈만의 다채로운 향과 함께 시각적, 촉각적 감각을 일깨우며 각기 다른 즐거움을 전합니다.",
+            "ca_img" : "https://www.tamburins.com/img/renew_dummy/category/pc_plp_hero_banner_soap.jpg",
+            "ca_name" : "퍼퓸 비누",
+            "ca_num" : 8,
+            "arr" : [
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1681796011_PLP_harvestsoap_chamo_tray.jpg?img1=121",
+                    "name" : "퍼퓸 비누 카모 트레이 세트",
+                    "desc" : "진득한 카모마일 | 부드러운 나무결 | 머스크",
+                    "price" : "43,500",
+                    "gram" : "115g",
+                    "size" : 1
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1681795961_PLP_hervestsoap_bergasandal_tray.jpg?img1=121",
+                    "name" : "퍼퓸 비누 버가샌달 트레이 세트",
+                    "desc" : "지중해의 베르가못 | 쌉싸래한 청귤 | 샌달우드",
+                    "price" : "43,500",
+                    "gram" : "140g",
+                    "size" : 1
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1681795838_PLP_harvestsoap_lale_tray.jpg?img1=121",
+                    "name" : "퍼퓸 비누 라레 트레이 세트",
+                    "desc" : "이슬을 머금은 풋사과 | 화이트 튤립 | 샌달우드",
+                    "price" : "43,500",
+                    "gram" : "130g",
+                    "size" : 1
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1681795906_PLP_hervestsoap_white_tray.jpg?img1=121",
+                    "name" : "퍼퓸 비누 화이트다즐링 트레이 세트",
+                    "desc" : "화이트 샴페인 | 다즐링 티 | 크리미한 머스크",
+                    "price" : "43,500",
+                    "gram" : "115g",
+                    "size" : 1
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1681786735_PLP_harvestsoap_chamo.jpg?img1=121",
+                    "name" : "퍼퓸 비누 카모",
+                    "desc" : "진득한 카모마일 | 부드러운 나무결 | 머스크",
+                    "price" : "24,000",
+                    "gram" : "115g",
+                    "size" : 1
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1681972219_PLP_harvestsoap_new_bergasandal.jpg?img1=121",
+                    "name" : "퍼퓸 비누 버가샌달",
+                    "desc" : "지중해의 베르가못 | 쌉싸래한 청귤 | 샌달우드",
+                    "price" : "24,000",
+                    "gram" : "140g",
+                    "size" : 1
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1681787054_PLP_harvestsoap_lale.jpg?img1=121",
+                    "name" : "퍼퓸 비누 라레",
+                    "desc" : "이슬을 머금은 풋사과 | 화이트 튤립 | 샌달우드",
+                    "price" : "24,000",
+                    "gram" : "130g",
+                    "size" : 1
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1681786968_PLP_harvestsoap_whitedarjeeling.jpg?img1=121",
+                    "name" : "퍼퓸 비누 화이트다즐링",
+                    "desc" : "화이트 샴페인 | 다즐링 티 | 크리미한 머스크",
+                    "price" : "24,000",
+                    "gram" : "115g",
+                    "size" : 1
+                }
+            ]
+        },
+        {
+            "id" : 10,
+            "title" : "egglipbalm",
+            "ca_title" : "",
+            "ca_desc" : "",
+            "ca_img" : "",
+            "ca_name" : "에그 립밤",
+            "ca_num" : 4,
+            "arr" : [
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1699862436_PLP_rose.jpg?img1=121",
+                    "name" : "에그 립밤 로즈우디",
+                    "desc" : "자몽 ㅣ 우아한 장미 ㅣ 머스크",
+                    "price" : "28,900",
+                    "gram" : "5g",
+                    "size" : 1
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1699862201_PLP_un.jpg?img1=121",
+                    "name" : "에그 립밤 언센티드",
+                    "desc" : "언센티드(무향)",
+                    "price" : "28,900",
+                    "gram" : "5g",
+                    "size" : 1
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1699862529_PLP_milk.jpg?img1=121",
+                    "name" : "에그 립밤 밀크티",
+                    "desc" : "베르가못 | 은은한 블랙티 | 코코넛",
+                    "price" : "28,900",
+                    "gram" : "5g",
+                    "size" : 1
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1699862347_PLP_wood.jpg?img1=121",
+                    "name" : "에그 립밤 우디그린",
+                    "desc" : "신선한 만다린 과즙 | 아로마틱 허브 | 부쿠",
+                    "price" : "28,900",
+                    "gram" : "5g",
+                    "size" : 1
+                }
+            ]
+        },
+        {
+            "id" : 11,
+            "title" : "sanitizer",
+            "ca_title" : "",
+            "ca_desc" : "",
+            "ca_img" : "",
+            "ca_name" : "손 소독제",
+            "ca_num" : 7,
+            "arr" : [
+                {
+                    "img" : "https://web-resource.tamburins.com/item/sanitizer/PLP/PLP_sanitizer_30ml_fey9.jpg?img1=121",
+                    "name" : "손 소독제 FEY9",
+                    "desc" : "무화과나무 | 엠브레트 씨앗 | 달콤 씁쓸한",
+                    "price" : "8,500",
+                    "gram" : "30mL",
+                    "size" : 1
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/sanitizer/PLP/PLP_sanitizer_30ml_000.jpg?img1=121",
+                    "name" : "손 소독제 000",
+                    "desc" : "샌달우드  |  패츌리  |  흙 내음",
+                    "price" : "8,500",
+                    "gram" : "30mL",
+                    "size" : 1
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/sanitizer/PLP/PLP_sanitizer_30ml_7.jpg?img1=121",
+                    "name" : "손 소독제 7",
+                    "desc" : "로즈우드  |  코코넛 향  |  우아함",
+                    "price" : "8,500",
+                    "gram" : "30mL",
+                    "size" : 1
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/sanitizer/PLP/PLP_sanitizer_30ml_712.jpg?img1=121",
+                    "name" : "손 소독제 712",
+                    "desc" : "패츌리  |  쌉싸래한 풀 줄기  |  스모키함",
+                    "price" : "8,500",
+                    "gram" : "30mL",
+                    "size" : 1
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/sanitizer/PLP/PLP_sanitizer_250ml_fey9.jpg?img1=121",
+                    "name" : "손 소독제 FEY9",
+                    "desc" : "무화과나무 | 엠브레트 씨앗 | 달콤 씁쓸한",
+                    "price" : "32,000",
+                    "gram" : "250mL",
+                    "size" : 1
+                }
+            ]
+        },
+        {
+            "id" : 12,
+            "title" : "gift",
+            "ca_title" : "마음을 전하는 특별한 기프트",
+            "ca_desc" : "소중한 순간을 더욱 특별하게 만들어줄 탬버린즈만의 기프트로 따듯한 마음을 전해보세요.",
+            "ca_img" : "",
+            "ca_name" : "선물 추천",
+            "ca_num" : 13,
+            "arr" : [
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1687917731_PLP_shwry_duo_biga_v2.jpg?img1=121",
+                    "name" : "바디듀오 BIGALICO",
+                    "desc" : "샤워리바디워시&로션",
+                    "price" : "68,000",
+                    "gram" : "240mL+235mL",
+                    "size" : 1
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1687917633_PLP_shwry_duo_nimbus_v2.jpg?img1=121",
+                    "name" : "바디듀오 NIMBUS",
+                    "desc" : "샤워리바디워시&로션",
+                    "price" : "68,000",
+                    "gram" : "240mL+235mL",
+                    "size" : 1
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1672988764_PLP_%E1%84%8B%E1%85%B2%E1%84%85%E1%85%AD%E1%84%89%E1%85%AD%E1%84%91%E1%85%B5%E1%86%BC%E1%84%87%E1%85%A2%E1%86%A8_S.jpg?img1=121",
+                    "name" : "쇼핑백",
+                    "desc" : "쇼핑백 (S)",
+                    "price" : "1,000",
+                    "gram" : "S",
+                    "size" : 2
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1699837590_PLP_shoppingbag_v2.jpg?img1=121",
+                    "name" : "쇼핑백",
+                    "desc" : "쇼핑백 (M)",
+                    "price" : "1,500",
+                    "gram" : "M",
+                    "size" : 2
+                },
+                {
+                    "img" : "https://web-resource.tamburins.com/item/1683855939_PLP_handcareset_vein.jpg?img1=121",
+                    "name" : "퍼퓸 비누&쉘 (CHAMO+VEIN)",
+                    "desc" : "특별한 퍼퓸 핸드케어 세트",
+                    "price" : "26,500",
+                    "gram" : "46g+15mL",
+                    "size" : 1
+                }
+            ]
+        }
+    ]
+}
