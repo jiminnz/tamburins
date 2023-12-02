@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/tamburins/static/css/main.02ac8b74.css",
-    "main.js": "/tamburins/static/js/main.c2af2c37.js",
+    "main.js": "/tamburins/static/js/main.de7c870d.js",
     "static/media/empty_background.jpeg": "/tamburins/static/media/empty_background.53baf28d6ac3930009a7.jpeg",
     "index.html": "/tamburins/index.html",
     "main.02ac8b74.css.map": "/tamburins/static/css/main.02ac8b74.css.map",
-    "main.c2af2c37.js.map": "/tamburins/static/js/main.c2af2c37.js.map"
+    "main.de7c870d.js.map": "/tamburins/static/js/main.de7c870d.js.map"
   },
   "entrypoints": [
     "static/css/main.02ac8b74.css",
-    "static/js/main.c2af2c37.js"
+    "static/js/main.de7c870d.js"
   ]
 }
