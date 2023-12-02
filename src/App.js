@@ -1,5 +1,6 @@
 import './App.css';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
+// import { HashRouter, Routes, Route } from 'react-router-dom';
 import Home from './pages/Home';
 import Sub_category from './pages/Sub_category';
 import Sub_item from './pages/Sub_item';
@@ -14,6 +15,7 @@ function App() {
   return (
     <div id='app'>
       <BrowserRouter>
+      {/* <HashRouter> */}
         <Routes>
           <Route path="/" element={<Home />}></Route>
           <Route path="/categories/:title" element={<Sub_category />}></Route>
@@ -23,6 +25,7 @@ function App() {
           <Route path="/*" element={<Sub_empty/>}></Route>
         </Routes>
       </BrowserRouter>
+      {/* </HashRouter> */}
     </div>
   )
 }

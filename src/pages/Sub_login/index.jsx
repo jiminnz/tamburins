@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import style from './sub_login.module.css';
 
 import Header from '../../components/Header';
@@ -30,10 +31,13 @@ const Sub_login = () => {
                                     <button>카카오 로그인</button>
                                 </div>
                                 <div>
-                                    <a href="#none" title="아이디 또는 비밀번호 찾기">아이디 또는 비밀번호 찾기</a>
+                                    {/* <a href="#none" title="아이디 또는 비밀번호 찾기">아이디 또는 비밀번호 찾기</a> */}
+                                    <Link to="/*">아이디 또는 비밀번호 찾기</Link>
                                     <span>|</span>
-                                    <a href="#none" title="회원가입">회원가입</a>
-                                    <a href="#none" title="비회원 주문조회">비회원 주문조회</a>
+                                    {/* <a href="#none" title="회원가입">회원가입</a>
+                                    <a href="#none" title="비회원 주문조회">비회원 주문조회</a> */}
+                                    <Link to="/*">회원가입</Link>
+                                    <Link to="/*">비회원 주문조회</Link>
                                 </div>
                             </div>
                         </form>
@@ -42,7 +46,8 @@ const Sub_login = () => {
                 <div className={style.join_wrap}>
                     <h4>회원가입</h4>
                     <p>회원가입 시 즉시 사용 가능한 3,000원 혜택을 드립니다.</p>
-                    <a href="#none" title="신규 회원가입">신규 회원가입</a>
+                    {/* <a href="#none" title="신규 회원가입">신규 회원가입</a> */}
+                    <Link to="/*">신규 회원가입</Link>
                 </div>
             </div>
             <Footer isSub={true}/>

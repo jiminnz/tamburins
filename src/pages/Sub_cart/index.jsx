@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import style from './sub_cart.module.css';
+import { Link } from 'react-router-dom';
+import style from './sub_cart.module.css'
 
 import Header from '../../components/Header';
 import Footer from '../../components/Footer';
@@ -40,10 +41,10 @@ const Sub_cart = () => {
         <div>
             <Header isSub={false}/>
             <div id={style.container}>
-                <div class={style.cart_wrap}>
+                <div className={style.cart_wrap}>
                     <h4>
                         쇼핑백
-                        <span class={style.cart_num_box}>(<span class={style.shop_num}>1</span>개)</span>
+                        <span className={style.cart_num_box}>(<span className={style.shop_num}>1</span>개)</span>
                     </h4>
                     <ul id={style.cart_in_item}>
                         {cartList.map((item)=>{
@@ -55,32 +56,34 @@ const Sub_cart = () => {
                             )
                         })}
                     </ul>
-                    <div class={style.no_cart}>장바구니에 담긴 상품이 없습니다.</div>
+                    <div className={style.no_cart}>장바구니에 담긴 상품이 없습니다.</div>
                 </div>
-                <div class={style.payment_wrap}>
+                <div className={style.payment_wrap}>
                     <h4>결제내역</h4>
                     <ul>
                         <li>
                             <h5>주문 금액</h5>
-                            <p><span class={style.cart_price}>46500</span>원</p>
+                            <p><span className={style.cart_price}>46500</span>원</p>
                         </li>
                         <li>
                             <h5>배송비</h5>
                             <p>
-                                <span class={style.delivery_desc}>3만원 이상 구매시 무료배송</span>
-                                <span class={style.delivery_price}>0</span>원
+                                <span className={style.delivery_desc}>3만원 이상 구매시 무료배송</span>
+                                <span className={style.delivery_price}>0</span>원
                             </p>
                         </li>
                         <li>
                             <h5>총 금액</h5>
-                            <p><span class={style.total_price}>46500</span>원</p>
+                            <p><span className={style.total_price}>46500</span>원</p>
                         </li>
                     </ul>
                     <div>
-                        <a id={style.keep_order} href="#none">주문 계속하기</a>
-                        <a id={style.keep_shop} href="#none">쇼핑 계속하기</a>
+                        {/* <a id={style.keep_order} href="#none">주문 계속하기</a>
+                        <a id={style.keep_shop} href="#none">쇼핑 계속하기</a> */}
+                        <Link id={style.keep_order} to="">주문 계속하기</Link>
+                        <Link id={style.keep_shop} to="">쇼핑 계속하기</Link>
                     </div>
-                    <div class={style.caution_wrap}>
+                    <div className={style.caution_wrap}>
                         <p>· 주문일로부터 1-2 영업일 이내 출고됩니다.</p>
                         <p>· 환경부 고시에 따라, 기본 쇼핑백이 제공되지 않습니다.</p>
                         <p>
